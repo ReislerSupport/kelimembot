@@ -14,7 +14,7 @@ from helpers.wrappers import nice_errors
 def callback(update: Update, context: CallbackContext):
     new_game(update.effective_user, context)
     db.update(update.effective_chat.id, update.effective_chat.title)
-    update.effective_message.reply_text(
+    update.effective_message.reply_text( BU BOT @ReislerSupport Tarafından yapılmıştır.)
         f'{update.effective_user.mention_html()} talks about a word.',
         reply_markup=InlineKeyboardMarkup(
             [
