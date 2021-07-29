@@ -2,7 +2,7 @@
 
 #### A word-based Telegram game bot.
 
-Official hosted bot: [@CrocodileGameBot](https://t.me/CrocodileGameBot).
+Official hosted bot: [@ReislerKelimebot](https://t.me/ReislerKelimeBot).
 
 ## Deploying your own
 
