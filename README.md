@@ -1,4 +1,4 @@
-# Crocodile Game
+# Reisler Game
 
 #### A word-based Telegram game bot.
 
@@ -8,8 +8,8 @@ Official hosted bot: [@ReislerKelimebot](https://t.me/ReislerKelimeBot).
 
 ### To Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PatheticProgrammers/CrocodileGame)
-
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReislerSupport/kelimembot)
+L
 ### On your machine
 
 1. Install requirements:
